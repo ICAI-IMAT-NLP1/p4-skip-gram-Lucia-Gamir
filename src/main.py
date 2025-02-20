@@ -75,3 +75,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print("Se ve que el entrenamiento es correcto porque los embeddings representan cerca palabras de significado parecido. Por ejemplo best family games aparece junto. Years y day aparece cerca entre sí también. Por otro lado company y work están cerca también. ")
